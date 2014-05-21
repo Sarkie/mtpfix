@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sarkie\'s MTPFix</string>
+    <string name="button_start_service">Start MTPFix Service</string>
+
+</resources>
